@@ -2,7 +2,7 @@
 using namespace std;
 
 void check_balance(int money){
-    cout << "Your Total balance is: " << money << endl;
+    cout << "Your Total balance is: $" << money << endl;
     return;
 }
 
