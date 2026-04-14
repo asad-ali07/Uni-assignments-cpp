@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4592C3-B68E-4BA8-918E-D4C6FAD58D5C}|Task 3.vcxproj|F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 3\\clock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4592C3-B68E-4BA8-918E-D4C6FAD58D5C}|Task 3.vcxproj|solutionrelative:clock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clock.cpp",
+              "DocumentMoniker": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 3\\clock.cpp",
+              "RelativeDocumentMoniker": "clock.cpp",
+              "ToolTip": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 3\\clock.cpp",
+              "RelativeToolTip": "clock.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-09T19:10:53.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

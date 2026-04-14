@@ -1,0 +1,4 @@
+﻿  transport.cpp
+F:\Asad\stuff\C++\Uni work\self study\Task 1\transport.cpp(43,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Asad\stuff\C++\Uni work\self study\Task 1\transport.cpp(46,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Task 1.vcxproj -> F:\Asad\stuff\C++\Uni work\self study\Task 1\x64\Debug\Task 1.exe

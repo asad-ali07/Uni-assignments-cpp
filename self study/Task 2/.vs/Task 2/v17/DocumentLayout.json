@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\stuff\\C\u002B\u002B\\Uni work\\self study\\Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38FCFAB2-ABC7-4057-B8FE-99A7D1818D72}|Task 2.vcxproj|F:\\Asad\\stuff\\C\u002B\u002B\\Uni work\\self study\\Task 2\\Techhaven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38FCFAB2-ABC7-4057-B8FE-99A7D1818D72}|Task 2.vcxproj|solutionrelative:Techhaven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Techhaven.cpp",
+              "DocumentMoniker": "F:\\Asad\\stuff\\C\u002B\u002B\\Uni work\\self study\\Task 2\\Techhaven.cpp",
+              "RelativeDocumentMoniker": "Techhaven.cpp",
+              "ToolTip": "F:\\Asad\\stuff\\C\u002B\u002B\\Uni work\\self study\\Task 2\\Techhaven.cpp",
+              "RelativeToolTip": "Techhaven.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T20:11:15.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

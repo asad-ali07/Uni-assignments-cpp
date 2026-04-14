@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA62D3FF-2C49-44A4-BDC1-85A800691ABD}|Task 1.vcxproj|F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 1\\Characterclassification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA62D3FF-2C49-44A4-BDC1-85A800691ABD}|Task 1.vcxproj|solutionrelative:Characterclassification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Characterclassification.cpp",
+              "DocumentMoniker": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 1\\Characterclassification.cpp",
+              "RelativeDocumentMoniker": "Characterclassification.cpp",
+              "ToolTip": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 1\\Characterclassification.cpp*",
+              "RelativeToolTip": "Characterclassification.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T06:00:33.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

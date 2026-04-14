@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781945A5-548C-4D79-AE9A-3758216D840B}|Task 2.vcxproj|F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 2\\invstock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{781945A5-548C-4D79-AE9A-3758216D840B}|Task 2.vcxproj|solutionrelative:invstock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "invstock.cpp",
+              "DocumentMoniker": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 2\\invstock.cpp",
+              "RelativeDocumentMoniker": "invstock.cpp",
+              "ToolTip": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 6\\Task 2\\invstock.cpp",
+              "RelativeToolTip": "invstock.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-07T21:01:05.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 7\\Task 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0536E3C2-D17A-4D76-8BCF-BFDCCDAB08D7}|Task 3.vcxproj|F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 7\\Task 3\\imgcompress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0536E3C2-D17A-4D76-8BCF-BFDCCDAB08D7}|Task 3.vcxproj|solutionrelative:imgcompress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imgcompress.cpp",
+              "DocumentMoniker": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 7\\Task 3\\imgcompress.cpp",
+              "RelativeDocumentMoniker": "imgcompress.cpp",
+              "ToolTip": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 7\\Task 3\\imgcompress.cpp*",
+              "RelativeToolTip": "imgcompress.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T10:14:56.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 4\\Task 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 4\\Task 3\\primeadd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "primeadd.cpp",
+              "DocumentMoniker": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 4\\Task 3\\primeadd.cpp",
+              "RelativeDocumentMoniker": "..\\Task 3\\primeadd.cpp",
+              "ToolTip": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 4\\Task 3\\primeadd.cpp",
+              "RelativeToolTip": "..\\Task 3\\primeadd.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T16:36:46.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

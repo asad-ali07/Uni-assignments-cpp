@@ -1,0 +1,7 @@
+﻿  Techhaven.cpp
+F:\Asad\stuff\C++\Uni work\self study\Task 2\Techhaven.cpp(32,14): warning C4305: '=': truncation from 'double' to 'float'
+F:\Asad\stuff\C++\Uni work\self study\Task 2\Techhaven.cpp(36,14): warning C4305: '=': truncation from 'double' to 'float'
+F:\Asad\stuff\C++\Uni work\self study\Task 2\Techhaven.cpp(40,14): warning C4305: '=': truncation from 'double' to 'float'
+F:\Asad\stuff\C++\Uni work\self study\Task 2\Techhaven.cpp(44,14): warning C4305: '=': truncation from 'double' to 'float'
+F:\Asad\stuff\C++\Uni work\self study\Task 2\Techhaven.cpp(49,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Task 2.vcxproj -> F:\Asad\stuff\C++\Uni work\self study\Task 2\x64\Debug\Task 2.exe

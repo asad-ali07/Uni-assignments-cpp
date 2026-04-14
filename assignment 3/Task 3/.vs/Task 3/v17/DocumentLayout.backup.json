@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF89BDB4-E584-40CE-A71D-42CA233991C0}|Task 3.vcxproj|F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 3\\ageanalysis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF89BDB4-E584-40CE-A71D-42CA233991C0}|Task 3.vcxproj|solutionrelative:ageanalysis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ageanalysis.cpp",
+              "DocumentMoniker": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 3\\ageanalysis.cpp",
+              "RelativeDocumentMoniker": "ageanalysis.cpp",
+              "ToolTip": "F:\\Asad\\C\u002B\u002B\\Uni work\\assignment 3\\Task 3\\ageanalysis.cpp",
+              "RelativeToolTip": "ageanalysis.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T02:10:17.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
