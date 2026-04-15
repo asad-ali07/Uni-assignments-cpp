@@ -5,6 +5,10 @@ string category[100];
 float amount[100];
 int transaction_count = 0;
 
+void WelcomeMessage() {
+    cout << "Welcome to the Personal Finance Tracker!\n" << endl;
+}
+
 void record_transaction() {
     cout << "Enter the transaction category: ";
     cin >> category[transaction_count];
@@ -47,6 +51,7 @@ void view_budget() {
 }
 
 int main() {
+    WelcomeMessage();
     int choice;
     cout << "Personal Finance Tracker Menu:" << endl;
     do{
