@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-string catergory[100];
+string category[100];
 float amount[100];
 int transaction_count = 0;
 
 void record_transaction() {
     cout << "Enter the transaction category: ";
-    cin >> catergory[transaction_count];
+    cin >> category[transaction_count];
     
     cout << "Enter the transaction amount: ";
     cin >> amount[transaction_count];
@@ -23,7 +23,6 @@ float view_expenses() {
             total_expenses += -amount[i];
         }
     }
-    cout << "Total Expenses: $" << total_expenses << endl;
     return total_expenses;
 }
 
@@ -41,7 +40,7 @@ float view_income() {
 void view_budget() {
     float expenses = view_expenses();
     float income = view_income();
-    float budget = income + expenses;
+    float budget = income - expenses;
     cout << "Current Budget: $" << budget << endl;
 }
 
