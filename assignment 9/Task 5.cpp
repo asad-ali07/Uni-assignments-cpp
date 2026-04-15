@@ -9,10 +9,11 @@ void record_transaction() {
     cout << "Enter the transaction category: ";
     cin >> category[transaction_count];
     
-    cout << "Enter the transaction amount: ";
+    cout << "Enter the transaction amount (Positive(+) for income, Negative(-) for expenses): ";
     cin >> amount[transaction_count];
 
     cout << "Transaction recorded successfully!" << endl;
+    cout << "Category: " << category[transaction_count] << " | Amount: $" << amount[transaction_count] << endl;
     transaction_count++;
 }
 
@@ -33,7 +34,6 @@ float view_income() {
             total_income += amount[i];
         }
     }
-    cout << "Total Income: $" << total_income << endl;
     return total_income;
 }
 
@@ -41,6 +41,8 @@ void view_budget() {
     float expenses = view_expenses();
     float income = view_income();
     float budget = income - expenses;
+    cout << "Current Income: $" << income << endl;
+    cout << "Current Expenses: $" << expenses << endl;
     cout << "Current Budget: $" << budget << endl;
 }
 
