@@ -13,7 +13,7 @@ int fib(int n) {
 
 int main() {
     int n;
-    cout << "\n7Enter a positive number: ";
+    cout << "\nEnter a positive number: ";
     cin >> n;
 
     cout << "\nFibonacci number for " << n << " is: " << fib(n) << endl;
